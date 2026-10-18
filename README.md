@@ -42,22 +42,6 @@ I am a software engineer focused on designing and developing intelligent, scalab
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/mesdsingh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/mesdsingh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/mesdsingh">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -98,3 +82,20 @@ I am a software engineer focused on designing and developing intelligent, scalab
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" width="100%" alt="Profile footer banner" />
 </p>
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mesdsingh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mesdsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/mesdsingh">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
+---
