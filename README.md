@@ -8,13 +8,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Building%20Intelligent%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%7C%20LLMs%20%7C%20Agentic%20AI&descAlignY=58&descSize=16" width="100%" alt="Profile banner"/>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mesdsingh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mesdsingh?label=Followers&style=social" alt="GitHub followers"/>
-</p>
-
-
 ---
 
 ## 👨‍💻 About Me
