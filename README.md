@@ -72,18 +72,6 @@ I am a software engineer focused on designing and developing intelligent, scalab
     <img src="https://raw.githubusercontent.com/mesdsingh/mesdsingh/output/snake.svg" width="100%" alt="GitHub contribution snake animation" />
   </picture>
 </p>
-
----
-
-<p align="center">
-  <i>💡 Learn continuously. Build thoughtfully. Innovate with purpose.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" width="100%" alt="Profile footer banner" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -98,4 +86,13 @@ I am a software engineer focused on designing and developing intelligent, scalab
   </a>
 </p>
 
+---
+
+<p align="center">
+  <i>💡 Learn continuously. Build thoughtfully. Innovate with purpose.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" width="100%" alt="Profile footer banner" />
+</p>
 ---
