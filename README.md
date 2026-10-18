@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%F0%9F%A4%96&descSize=18&descAlignY=55&descColor=ffffff" width="100%" alt="Sudarshan Singh — GenAI Developer, Software Engineer, AI Enthusiast" />
 </p>
+
 ## 🚀 About Me
 
 I am a software engineer focused on designing and developing intelligent, scalable, and reliable software solutions. My technical interests include Generative AI, Large Language Models (LLMs), Agentic AI, Machine Learning, Deep Learning, and backend engineering, with an emphasis on building practical AI-driven applications and robust software systems.
