@@ -10,17 +10,15 @@
 </p>
 
 ## 👨‍💻 About Me
+I am a software engineer focused on designing and developing intelligent, scalable, and reliable software solutions. My technical interests include Generative AI, Large Language Models (LLMs), Agentic AI, Machine Learning, Deep Learning, and backend engineering, with an emphasis on building practical AI-driven applications and robust software systems.
 
-I'm a software developer interested in building intelligent applications, scalable backend systems, and AI-powered solutions.
-
-My interests include Generative AI, Large Language Models (LLMs), Agentic AI, machine learning, deep learning, and modern software engineering.
-
-- 🤖 Exploring Generative AI and LLM-powered applications
-- 🧠 Interested in AI agents, RAG, embeddings, and semantic search
-- 🐍 Working with Python and modern development technologies
-- ⚙️ Interested in backend engineering, APIs, and scalable systems
+- 🤖 Building AI-powered applications using Generative AI and LLMs
+- 🧠 Exploring AI agents, Retrieval-Augmented Generation (RAG), embeddings, and semantic search
+- 🐍 Developing solutions with Python and modern development technologies
+- ⚙️ Designing backend services, APIs, and scalable software systems
 - 🐳 Exploring containerization, automation, and cloud-native technologies
-- 📚 Continuously learning, experimenting, and building practical solutions
+- 📚 Continuously learning, experimenting, and translating ideas into practical solutions
+
 
 ---
 
