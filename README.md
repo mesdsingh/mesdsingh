@@ -34,22 +34,22 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" alt="Languages and tools"/>
   <br/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge" alt="vLLM"/>
 </p>
 
 ---
