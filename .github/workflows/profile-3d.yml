@@ -17,9 +17,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: mesdsingh
         env:
           USERNAME: mesdsingh
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
