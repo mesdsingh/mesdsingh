@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&des[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Sudarshan Singh profile banner" />
 </p>
 
 ## 🚀 About Me
