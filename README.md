@@ -31,46 +31,36 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
 
 ---
 
+
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&perline=8" alt="Python and machine learning"/>
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" alt="AutoGen"/>
-  <img src="https://img.shields.io/badge/MCP-6554C0?style=for-the-badge" alt="Model Context Protocol"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=jupyter&perline=8" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights and Biases"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Chroma-5B3CC4?style=for-the-badge" alt="Chroma"/>
-  <img src="https://img.shields.io/badge/Pinecone-00A98F?style=for-the-badge" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge" alt="Weaviate"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" alt="pgvector"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/vLLM-5D3FD3?style=for-the-badge" alt="vLLM"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,flask,spring,nodejs,react&perline=8" alt="Programming and backend tools"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,githubactions&perline=8" alt="DevOps and cloud"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman&perline=8" alt="Databases and developer tools"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,ts,nodejs,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter,numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=openai,githubcopilot,huggingface,langchain" />
 </p>
+
+<p align="center">
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
 
 ---
 
