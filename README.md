@@ -19,7 +19,7 @@ I am a software engineer focused on designing and developing intelligent, scalab
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vsc[...]
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter&perline=9" alt="Languages, frameworks and developer tools" />
 </p>
 
 ### 🤖 Generative AI & LLM Ecosystem
