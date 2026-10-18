@@ -37,3 +37,4 @@ jobs:
           git add profile-3d-contrib/
           git diff --staged --quiet || git commit -m "Generate 3D contribution graph"
           git push
+# Trigger workflow rerun
