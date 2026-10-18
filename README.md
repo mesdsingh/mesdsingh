@@ -30,38 +30,24 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
 - 📚 Continuously learning, experimenting, and building practical solutions
 
 ---
-
-
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,ts,nodejs,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,githubactions" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter,numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,nodejs,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=openai,githubcopilot,huggingface,langchain" />
-</p>
-
-<p align="center">
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Weaviate-00A98F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
-
-
 ---
 
 ## 🌐 Connect With Me
