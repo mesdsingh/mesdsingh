@@ -82,9 +82,10 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesdsingh/mesdsingh/output/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesdsingh/mesdsingh/output/snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mesdsingh/mesdsingh/output/snake-dark.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mesdsingh/mesdsingh/output/snake.svg"/>
   </picture>
 </p>
+
 
 ---
 
