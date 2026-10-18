@@ -88,11 +88,10 @@ I am a software engineer focused on designing and developing intelligent, scalab
 </p>
 
 ---
-
 <p align="center">
-  <i>💡 Learn continuously. Build thoughtfully. Innovate with purpose.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" width="100%" alt="Profile footer banner" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" width="100%" alt="Profile footer banner" />
+  <i>💡 Learn continuously. Build thoughtfully. Innovate with purpose.</i>
 </p>
