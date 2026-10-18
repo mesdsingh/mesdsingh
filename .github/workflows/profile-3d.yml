@@ -22,6 +22,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           USERNAME: mesdsingh
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push graph
         run: |
