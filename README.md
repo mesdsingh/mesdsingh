@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Sudarshan Singh profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%F0%9F%A4%96&descSize=18&descAlignY=55&descColor=ffffff" width="100%" alt="Sudarshan Singh — GenAI Developer, Software Engineer, AI Enthusiast" />
 </p>
 
 ## 🚀 About Me
