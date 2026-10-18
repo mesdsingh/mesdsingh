@@ -30,6 +30,7 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
 - 📚 Continuously learning, experimenting, and building practical solutions
 
 ---
+
 ## 🧰 Languages and Tools
 
 <p align="center">
@@ -48,6 +49,8 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge" />
 </p>
+
+
 ---
 
 ## 🌐 Connect With Me
