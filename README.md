@@ -34,12 +34,14 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=openai,githubcopilot,huggingface,langchain" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" />
@@ -49,7 +51,6 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge" />
 </p>
-
 
 ---
 
