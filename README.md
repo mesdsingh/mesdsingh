@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%F0%9F%A4%96&descSize=18&descAlignY=55&descColor=ffffff" width="100%" alt="Sudarshan Singh — GenAI Developer, Software Engineer, AI Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Sudarshan%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&des[...]
 </p>
 
 ## 🚀 About Me
 
-I am a software engineer focused on designing and developing intelligent, scalable, and reliable software solutions. My technical interests include Generative AI, Large Language Models (LLMs), Agentic AI, Machine Learning, Deep Learning, and backend engineering, with an emphasis on building practical AI-driven applications and robust software systems.
+I am a software engineer focused on designing and developing intelligent, scalable, and reliable software solutions. My technical interests include Generative AI, Large Language Models (LLMs), Agentic[...]
 
 - 🤖 Building AI-powered applications using Generative AI and LLMs
 - 🧠 Exploring AI agents, Retrieval-Augmented Generation (RAG), embeddings, and semantic search
@@ -18,7 +18,7 @@ I am a software engineer focused on designing and developing intelligent, scalab
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter&perline=9" alt="Languages, frameworks and developer tools" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vsc[...]
 </p>
 
 ### 🤖 Generative AI & LLM Ecosystem
@@ -37,7 +37,7 @@ I am a software engineer focused on designing and developing intelligent, scalab
   <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge&logo=protocols&logoColor=white" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/vLLM-5D3FD3?style=for-the-badge&logo= lightning&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/vLLM-5D3FD3?style=for-the-badge&logo=lightning&logoColor=white" alt="vLLM" />
 </p>
 
 ---
