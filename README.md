@@ -34,7 +34,7 @@ My interests include Generative AI, Large Language Models (LLMs), Agentic AI, ma
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,nodejs,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,react,fastapi,flask,spring,docker,kubernetes,git,github,gitlab,linux,ubuntu,aws,gcp,azure,postgres,mysql,mongodb,redis,firebase,vscode,idea,pycharm,postman,jupyter" />
   <br/>
   <img src="https://skillicons.dev/icons?i=openai,githubcopilot,huggingface,langchain" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
